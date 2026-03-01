@@ -1,0 +1,4 @@
+hydrogram
+tgcrypto
+python-dotenv
+tortoise-orm[aiomysql]
