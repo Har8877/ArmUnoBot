@@ -10,7 +10,7 @@ player_game = {}
 timeout = 120                     # ռեգիստրացիայի ժամանակը վայրկյաններով
 minimum_players = 2               # նվազագույն խաղացողներ սկսելու համար
 
-sudoers = [123456789]             # քո user ID-ն (այստեղ դիր քո Telegram ID-ն)
+sudoers = [7189950846]             # քո user ID-ն (այստեղ դիր քո Telegram ID-ն)
 
 # ────────────────────────────────
 # Telegram API կոնֆիգ
