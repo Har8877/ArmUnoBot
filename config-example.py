@@ -16,8 +16,8 @@ sudoers = [7189950846]             # քո user ID-ն (այստեղ դիր քո T
 # Telegram API կոնֆիգ
 # ────────────────────────────────
 
-API_ID = 1234567                  # ← այստեղ դիր քո api_id-ն (my.telegram.org-ից)
-API_HASH = "abcdef1234567890abcdef1234567890"   # ← այստեղ դիր api_hash-ը
+API_ID = 21558552              # ← այստեղ դիր քո api_id-ն (my.telegram.org-ից)
+API_HASH = "04eea889fbbcf51b143ecbe0523cb19c"   # ← այստեղ դիր api_hash-ը
 
 BOT_TOKEN = "8664179912:AAGxa-CEY7jEBkABFI-2hFZ28odmHQaaM2g"   # քո բոտի token-ը
 
