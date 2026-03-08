@@ -1,8 +1,0 @@
-config.py
-*.session*
-*database.sqlite*
-__pycache__/
-*/__pycache__/
-config.py
-.venv
-cache.pkl
