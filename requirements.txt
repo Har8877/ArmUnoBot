@@ -1,4 +1,2 @@
-hydrogram
-tgcrypto
-python-dotenv
-tortoise-orm[aiomysql]
+pip install pyTelegramBotAPI
+pip install pytz
