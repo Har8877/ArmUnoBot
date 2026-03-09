@@ -1,3 +1,2 @@
 pyTelegramBotAPI>=4.22.1
 pytz>=2024.1
-86hh
